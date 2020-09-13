@@ -1,0 +1,26 @@
+{
+  "name": "create-express-typescript",
+  "version": "1.0.0",
+  "description": "Simple CLI tool to clone and automatically install dependencies for Express Typescript starter package",
+  "main": "index.js",
+  "bin": {
+    "create-express-typescript": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/p-rk/express-api-typescript.git"
+  },
+  "keywords": [
+    "Express starter typescript",
+    "typescript express api",
+    "nodejs typescript api",
+    "express typescript api",
+    "create express typescript api",
+    "create express typescript",
+    "typescript express",
+    "typescript",
+    "express"
+  ],
+  "author": "p-rk",
+  "license": "MIT"
+}
